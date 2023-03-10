@@ -7,4 +7,5 @@ In This Repository You will Find Different Project:
 3) GradeBook
 4) Payroll of Employees
 5) Problematic Questions 
-6)Sales Report 
+6) Sales Report 
+7) Store Sales Analysis 
